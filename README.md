@@ -18,5 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Imagem do projeto
 
-C:\Users\Particular\Documents\Casali\Programação\GITHUB\Html, css, javaScript\x-men\src\imagens\imagem projeto.png
+![image](https://github.com/JacquelineCasali/X-men/assets/103325619/659738a4-9dfd-4e45-9b79-e75e52dcbca8)
+
 
